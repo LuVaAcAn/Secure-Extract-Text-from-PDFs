@@ -18,7 +18,7 @@ PDFshield is a Python tool that extracts text from scanned PDFs using **OCR (Tes
 
 ## 📦 Installation  
 ```bash```
-- git clone https://github.com/yourusername/PDFshield.git
+- git clone https://github.com/LuVaAcAn/PDFshield.git
 - cd PDFshield
 - pip install -r requirements.txt.
 
